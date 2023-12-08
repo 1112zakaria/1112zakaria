@@ -1,6 +1,11 @@
 ### Hi there 👋
+I like to code. And I like to play footy and volleyball. Cats are cool too.
 
+I do not like leetcode. It hurts my head :(
 
+I like C++, C, and Python. Golang is pretty cool, I think its concurrency constructs are pretty nutty. 
+
+<!--
 **1112zakaria/1112zakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
+-->
