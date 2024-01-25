@@ -9,7 +9,7 @@ I currently go to Carleton University and I am in the Software Engineering progr
 
 I enjoy systems programming and find it very fun. So far, I have interned on teams involved in various areas in the telecommunications sector, including but not limited to traffic engineering, SD-WAN, and 5G NR. These experiences have been very invaluable for me; the people that I've worked with were superb and I got to learn lots from them.
 
-I like to tinker around with tools sometimes.
+I like to tinker around with tools sometimes. I have yet to build a chef-d'oeuvre. This is still a work-in-progress.
 
 <!--
 **1112zakaria/1112zakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
